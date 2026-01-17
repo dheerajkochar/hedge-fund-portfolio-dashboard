@@ -24,5 +24,3 @@ This project is a SQL-first stock portfolio analytics system with:
 - Simulated trade engine
 - Real-time dashboard
 
-## How to Run
-1. Install dependencies
