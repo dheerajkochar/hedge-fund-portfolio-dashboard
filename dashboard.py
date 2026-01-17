@@ -8,7 +8,7 @@ import plotly.express as px
 # ===============================
 DB_NAME = "portfolio"
 DB_USER = "postgres"
-DB_PASSWORD = "0412"
+DB_PASSWORD = ""
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
@@ -256,3 +256,4 @@ fig_dd = px.area(portfolio_df, x="price_date", y="drawdown", title="Drawdown")
 st.plotly_chart(fig_dd, use_container_width=True)
 
 conn.close()
+
