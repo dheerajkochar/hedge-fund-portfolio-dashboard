@@ -9,7 +9,7 @@ DAYS_BACK = 40
 
 DB_NAME = "portfolio"   # or market_data
 DB_USER = "postgres"
-DB_PASSWORD = "0412"
+DB_PASSWORD = ""
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
@@ -79,3 +79,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
