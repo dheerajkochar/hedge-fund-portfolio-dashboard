@@ -17,7 +17,7 @@ Here’s a **short and crisp SWOT** you can use on LinkedIn or in interviews:
 
 * Not optimized for very large datasets yet
 * No real-time/live data
-* Limited advanced risk metrics (VaR, beta, etc.)
+
 
 ---
 
